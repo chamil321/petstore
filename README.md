@@ -21,8 +21,8 @@
 ### Delete pet
 `curl -v "localhost:9090/pet?id=p002" -X DELETE`
 
-### health check
+### Health check
 `curl -v localhost:9090/healthz/live --head`
 
-### shutdown service
+### Shutdown service
 `curl -v localhost:9090/shutdown`
