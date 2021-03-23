@@ -1,0 +1,5 @@
+[petstore]
+dbUser = ""
+dbPassword = ""
+dbname="pet_store"
+port=3306
